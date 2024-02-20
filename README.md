@@ -1,7 +1,5 @@
 # RAG 101: Building Your Own Personal Retrieval Augmented Generation Model
 
-Welcome to RAG 101, where we delve into the fascinating world of Retrieval Augmented Generation (RAG)! This guide is designed to walk you through the foundational concepts of RAG and help you build a functional example for personal experimentation. Whether you're a hobbyist, student, or researcher, this project is tailored to offer practical insights and hands-on experience with cutting-edge language model technologies.
-
 **Prerequisites:**
 - **Python Skills:** Basic understanding of Python programming.
 - **Jupyter Notebook/Google Colab Experience:** Familiarity with Jupyter Notebook or Google Colab environments.
